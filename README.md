@@ -9,7 +9,8 @@
 
 
 
-Архитектура проекта:
+Архитектура:
+```text
 Procedural-Planet/
 ├── ProceduralPlanetGodot-main/   # Основной проект (Godot 4.6)
 │   ├── materials/shaders/compute # Шейдеры генерации (GLSL)
